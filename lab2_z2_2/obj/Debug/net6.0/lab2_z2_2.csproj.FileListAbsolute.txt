@@ -1,0 +1,15 @@
+E:\repository\lab2_z2_2\lab2_z2_2\bin\Debug\net6.0\lab2_z2_2.exe
+E:\repository\lab2_z2_2\lab2_z2_2\bin\Debug\net6.0\lab2_z2_2.deps.json
+E:\repository\lab2_z2_2\lab2_z2_2\bin\Debug\net6.0\lab2_z2_2.runtimeconfig.json
+E:\repository\lab2_z2_2\lab2_z2_2\bin\Debug\net6.0\lab2_z2_2.dll
+E:\repository\lab2_z2_2\lab2_z2_2\bin\Debug\net6.0\lab2_z2_2.pdb
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.csproj.AssemblyReference.cache
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.AssemblyInfoInputs.cache
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.AssemblyInfo.cs
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.csproj.CoreCompileInputs.cache
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.dll
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\refint\lab2_z2_2.dll
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.pdb
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\lab2_z2_2.genruntimeconfig.cache
+E:\repository\lab2_z2_2\lab2_z2_2\obj\Debug\net6.0\ref\lab2_z2_2.dll
